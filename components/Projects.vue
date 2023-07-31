@@ -16,7 +16,7 @@
             class="project__item--img"
             :style="{
               'background-image':
-                'url(' + (`./assets/images/${project.img}`) + ')',
+                'url(' + (`/images/${project.img}`) + ')',
             }"
           >
             <div class="projects__overlay">
