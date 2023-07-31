@@ -1,0 +1,54 @@
+//Variables 
+$color-dark: #151515;
+$color-bright: #4EE1A0;
+$color-shadow: #242424;
+$color-light: #D9D9D9;
+$color-lightest: #FFFFFF;
+
+@mixin font-xl {
+    font-weight: 700;
+    font-size: 88px;
+    letter-spacing: -2.5px;
+    line-height: 88px;
+    @media only screen and (max-width: $tablet) {
+        font-size: 72px; 
+        line-height: 72px;
+    }
+
+    @media only screen and (max-width: $mobile) {
+        font-size: 40px; 
+        line-height: 40px;
+    }
+}
+
+@mixin font-l {
+    font-weight: 700;
+    font-size: 48px;
+    letter-spacing: -1.5px;
+    line-height: 56px;
+
+    @media only screen and (max-width: $mobile) {
+        font-size: 32px; 
+    }
+}
+
+@mixin font-m {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;;
+}
+
+@mixin font-s {
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: 500;
+}
+
+h1, h2, h3, h4, h5, p {
+    margin: 0;
+}
+
+$sm-desktop: 1000px;
+$tablet: 768px;
+$mobile: 600px;
+$sm-mobile: 450px;
