@@ -22,11 +22,5 @@ export default defineNuxtConfig({
         { src: 'https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.3/TextPlugin.min.js' }
       ],
     }
-  },
-  devServer: {
-    https: {
-      key: 'localhost-key.pem',
-      cert: 'localhost.pem'
-    }
-  },
+  }
 })

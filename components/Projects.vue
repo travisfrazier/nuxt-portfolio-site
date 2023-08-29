@@ -124,6 +124,16 @@
             code: "https://github.com/travisfrazier/nuxt-movie-list",
             id: 8
           },
+          {
+            img: "age-calculator-app.png",
+            name: "Age Calculator Web App",
+            skillOne: "HTML",
+            skillTwo: "Sass",
+            skillThree: "Vue/Nuxt",
+            live: "https://vue-age-calculator.netlify.app",
+            code: "https://github.com/travisfrazier/age-calculator-app",
+            id: 9
+          },
         ],
       };
     },
