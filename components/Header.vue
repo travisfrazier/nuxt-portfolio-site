@@ -81,9 +81,8 @@
   
         const words = [
           "Travis Frazier",
-          "a coder",
-          "ui focused",
-          "pretty cool :)"
+          "a developer",
+          "ui focused"
         ];
   
         words.forEach((word) => {
