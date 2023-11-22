@@ -17,7 +17,7 @@
         <p>3 Years Experience</p>
       </div>
       <div class="skill__item">
-        <h2>GSAP Animations</h2>
+        <h2>GSAP</h2>
         <p>1.5 Years Experience</p>
       </div>
       <div class="skill__item">

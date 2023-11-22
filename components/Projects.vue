@@ -65,14 +65,14 @@
             id: 2,
           },
           {
-            img: "typemaster.png",
-            name: "Typemaster Launch Landing Page",
+            img: "age-calculator-app.png",
+            name: "Age Calculator Web App",
             skillOne: "HTML",
-            skillTwo: "CSS Grid",
-            skillThree: "Sass",
-            live: "https://travisfrazier.github.io/typemaster-lp",
-            code: "https://github.com/travisfrazier/typemaster-lp",
-            id: 3,
+            skillTwo: "Sass",
+            skillThree: "Vue/Nuxt",
+            live: "https://vue-age-calculator.netlify.app",
+            code: "https://github.com/travisfrazier/age-calculator-app",
+            id: 3
           },
           {
             img: "guess.png",
@@ -85,6 +85,16 @@
             id: 4,
           },
           {
+            img: "bench-clearers.png",
+            name: "Bench Clearers Shopify",
+            skillOne: "HTML",
+            skillTwo: "CSS",
+            skillThree: "JavsScript",
+            live: "https://benchclearers.com",
+            code: "https://benchclearers.com",
+            id: 5
+          },
+          {
             img: "drum.png",
             name: "Drum Pad Web App",
             skillOne: "HTML",
@@ -92,7 +102,7 @@
             skillThree: "Vue",
             live: "https://travisfrazier.github.io/vue-drum-pad",
             code: "https://github.com/travisfrazier/vue-drum-pad",
-            id: 5,
+            id: 6,
           },
           {
             img: "flash.png",
@@ -102,7 +112,7 @@
             skillThree: "Vue",
             live: "https://effortless-malabi-73eca3.netlify.app",
             code: "https://github.com/travisfrazier/flashcards-vue",
-            id: 6,
+            id: 7,
           },
           {
             img: "weather.png",
@@ -112,7 +122,7 @@
             skillThree: "Javascript",
             live: "https://codepen.io/travisfrazier/full/bKyzep",
             code: "https://codepen.io/travisfrazier/full/bKyzep",
-            id: 7,
+            id: 8,
           },
           {
             img: "movie-app.png",
@@ -122,18 +132,18 @@
             skillThree: "Vue",
             live: "https://vue-movie-list.netlify.app",
             code: "https://github.com/travisfrazier/nuxt-movie-list",
-            id: 8
-          },
-          {
-            img: "age-calculator-app.png",
-            name: "Age Calculator Web App",
-            skillOne: "HTML",
-            skillTwo: "Sass",
-            skillThree: "Vue/Nuxt",
-            live: "https://vue-age-calculator.netlify.app",
-            code: "https://github.com/travisfrazier/age-calculator-app",
             id: 9
           },
+          {
+            img: "typemaster.png",
+            name: "Typemaster Launch Landing Page",
+            skillOne: "HTML",
+            skillTwo: "CSS Grid",
+            skillThree: "Sass",
+            live: "https://travisfrazier.github.io/typemaster-lp",
+            code: "https://github.com/travisfrazier/typemaster-lp",
+            id: 10,
+          }
         ],
       };
     },
