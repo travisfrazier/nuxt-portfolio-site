@@ -57,7 +57,7 @@
             <button>Contact Me</button>
           </a>
         </div>
-        <img class="header__profile" src="/images/me.png" />
+        <img class="header__profile" src="/images/me-2.jpeg" />
       </div>
     </header>
   </template>
