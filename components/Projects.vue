@@ -54,14 +54,14 @@
             code: "https://github.com/travisfrazier/todo-vue",
             id: 1,
           },
-           {
-            img: "space-tourism.png",
-            name: "Space Travel Website",
+          {
+            img: "planets-info-site.png",
+            name: "Planets Web App",
             skillOne: "HTML",
-            skillTwo: "Sass",
-            skillThree: "Vue",
-            live: "https://space-tourism-vuejs.netlify.app",
-            code: "https://github.com/travisfrazier/space-tourism",
+            skillTwo: "Vue",
+            skillThree: "Nuxt 3",
+            live: "https://planets-info-site.netlify.app",
+            code: "https://github.com/travisfrazier/planets-fact-site",
             id: 2,
           },
           {
@@ -75,16 +75,6 @@
             id: 3
           },
           {
-            img: "guess.png",
-            name: "Match Game Web App",
-            skillOne: "HTML",
-            skillTwo: "CSS",
-            skillThree: "Javascript",
-            live: "https://travisfrazier.github.io/matchgame",
-            code: "https://github.com/travisfrazier/matchgame",
-            id: 4,
-          },
-          {
             img: "bench-clearers.png",
             name: "Bench Clearers Shopify",
             skillOne: "HTML",
@@ -92,27 +82,17 @@
             skillThree: "JavsScript",
             live: "https://benchclearers.com",
             code: "https://benchclearers.com",
-            id: 5
+            id: 4
           },
           {
-            img: "drum.png",
-            name: "Drum Pad Web App",
+            img: "space-tourism.png",
+            name: "Space Travel Website",
             skillOne: "HTML",
             skillTwo: "Sass",
             skillThree: "Vue",
-            live: "https://travisfrazier.github.io/vue-drum-pad",
-            code: "https://github.com/travisfrazier/vue-drum-pad",
-            id: 6,
-          },
-          {
-            img: "flash.png",
-            name: "Flash Card Web App",
-            skillOne: "HTML",
-            skillTwo: "Sass",
-            skillThree: "Vue",
-            live: "https://effortless-malabi-73eca3.netlify.app",
-            code: "https://github.com/travisfrazier/flashcards-vue",
-            id: 7,
+            live: "https://space-tourism-vuejs.netlify.app",
+            code: "https://github.com/travisfrazier/space-tourism",
+            id: 5,
           },
           {
             img: "weather.png",
@@ -122,7 +102,7 @@
             skillThree: "Javascript",
             live: "https://codepen.io/travisfrazier/full/bKyzep",
             code: "https://codepen.io/travisfrazier/full/bKyzep",
-            id: 8,
+            id: 6,
           },
           {
             img: "movie-app.png",
@@ -132,7 +112,7 @@
             skillThree: "Vue",
             live: "https://vue-movie-list.netlify.app",
             code: "https://github.com/travisfrazier/nuxt-movie-list",
-            id: 9
+            id: 7,
           },
           {
             img: "typemaster.png",
@@ -142,7 +122,7 @@
             skillThree: "Sass",
             live: "https://travisfrazier.github.io/typemaster-lp",
             code: "https://github.com/travisfrazier/typemaster-lp",
-            id: 10,
+            id: 8,
           }
         ],
       };
