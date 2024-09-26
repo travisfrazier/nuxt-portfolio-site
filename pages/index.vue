@@ -75,7 +75,7 @@ export default {
 	left: -150px;
 	top: 120px;
 	@media only screen and (max-width: $mobile) {
-		left: -350px;
+		left: -390px;
 	}
 }
 

@@ -212,7 +212,7 @@
       position: absolute;
       width: 100%;
       height: 100%;
-      background-color: #25252598;
+      background-color: #252525d1;
       display: flex;
       justify-content: center;
       align-items: center;

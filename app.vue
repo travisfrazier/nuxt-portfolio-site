@@ -23,6 +23,30 @@ body {
 	background: $color-dark;
 	color: $color-lightest;
 	overflow-x: hidden;
+	&.light-mode {
+		background: $color-lightest;
+		color: $color-dark;
+		button {
+			color: $color-dark;
+		}
+		.header__title {
+			color: $color-dark;
+		}
+		.projects__overlay {
+			button {
+				color: $color-light;
+			}
+		}
+		form input {
+			color: $color-dark;
+		}
+		.footer__title {
+			color: $color-dark;
+		}
+		svg g path {
+			fill: $color-dark;
+		}
+	}
 }
 
 
