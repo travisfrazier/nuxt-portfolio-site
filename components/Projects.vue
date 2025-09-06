@@ -3,7 +3,7 @@
       <div class="projects__top">
         <div>
           <h2>Projects </h2>
-          <span>*most recent projects I'm legally not allowed to display here so please reach out for more info :)</span>
+          <span>My most recent projects are public but part of my current role, so I’m not able to showcase them directly here. Please reach out for more info.</span>
         </div>
         <a href="#contact">
           <button>Contact Me</button>
