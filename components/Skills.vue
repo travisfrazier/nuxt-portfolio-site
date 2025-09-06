@@ -2,23 +2,23 @@
     <section class="skills__section">
       <div class="skill__item">
         <h2>HTML</h2>
-        <p>5 Years Experience</p>
+        <p>7 Years Experience</p>
       </div>
       <div class="skill__item">
         <h2>CSS/SCSS</h2>
-        <p>5 Years Experience</p>
+        <p>6 Years Experience</p>
       </div>
       <div class="skill__item">
         <h2>JavaScript</h2>
-        <p>4 Years Experience</p>
+        <p>6 Years Experience</p>
       </div>
       <div class="skill__item">
         <h2>Vue.js</h2>
-        <p>3 Years Experience</p>
+        <p>5 Years Experience</p>
       </div>
       <div class="skill__item">
         <h2>GSAP</h2>
-        <p>1.5 Years Experience</p>
+        <p>4 Years Experience</p>
       </div>
       <div class="skill__item">
         <h2>React.js</h2>

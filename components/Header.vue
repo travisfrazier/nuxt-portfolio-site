@@ -60,7 +60,7 @@
 					><span class="cursor">_</span>
 				</h1>
 				<p>
-					Based in San Diego, I’m a front-end developer passionate
+					Based in Wilmington, NC I’m a front-end developer passionate
 					about building responsive web apps that users love.
 				</p>
 				<a href="#contact">

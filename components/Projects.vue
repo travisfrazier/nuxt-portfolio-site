@@ -1,7 +1,10 @@
 <template>
     <section class="projects__section">
       <div class="projects__top">
-        <h2>Projects</h2>
+        <div>
+          <h2>Projects </h2>
+          <span>*most recent projects I'm legally not allowed to display here so please reach out for more info :)</span>
+        </div>
         <a href="#contact">
           <button>Contact Me</button>
         </a>
@@ -23,9 +26,6 @@
               <a target="_blank" v-bind:href="project.live">
                 <button>View Project</button>
               </a>
-              <a target="_blank" v-bind:href="project.code">
-                <button>View Code</button>
-              </a>
             </div>
           </div>
           <h3>{{ project.name }}</h3>
@@ -44,6 +44,16 @@
     data() {
       return {
         projects: [
+           {
+            img: "planets-info-site.png",
+            name: "Planets Web App",
+            skillOne: "HTML",
+            skillTwo: "Vue",
+            skillThree: "Nuxt 3",
+            live: "https://planets-info-site.netlify.app",
+            code: "https://github.com/travisfrazier/planets-fact-site",
+            id: 1,
+          },
           {
             img: "thumbnail-project-3-large.webp",
             name: "Todo Web App",
@@ -52,16 +62,6 @@
             skillThree: "Vue",
             live: "https://vuejs-todo-application.netlify.app",
             code: "https://github.com/travisfrazier/todo-vue",
-            id: 1,
-          },
-          {
-            img: "planets-info-site.png",
-            name: "Planets Web App",
-            skillOne: "HTML",
-            skillTwo: "Vue",
-            skillThree: "Nuxt 3",
-            live: "https://planets-info-site.netlify.app",
-            code: "https://github.com/travisfrazier/planets-fact-site",
             id: 2,
           },
           {
@@ -74,6 +74,15 @@
             code: "https://github.com/travisfrazier/age-calculator-app",
             id: 3
           },
+           {
+            img: "fresh-clean-tees.png",
+            name: "Fresh Clean Tees",
+            skillOne: "HTML",
+            skillTwo: "Sass",
+            skillThree: "Javascript",
+            live: "https://freshcleantees.com",
+            id: 4,
+          },
           {
             img: "bench-clearers.png",
             name: "Bench Clearers Shopify",
@@ -82,7 +91,7 @@
             skillThree: "JavsScript",
             live: "https://benchclearers.com",
             code: "https://benchclearers.com",
-            id: 4
+            id: 6
           },
           {
             img: "space-tourism.png",
@@ -94,36 +103,6 @@
             code: "https://github.com/travisfrazier/space-tourism",
             id: 5,
           },
-          {
-            img: "weather.png",
-            name: "Weather API Web App",
-            skillOne: "HTML",
-            skillTwo: "Sass",
-            skillThree: "Javascript",
-            live: "https://codepen.io/travisfrazier/full/bKyzep",
-            code: "https://codepen.io/travisfrazier/full/bKyzep",
-            id: 6,
-          },
-          {
-            img: "movie-app.png",
-            name: "Movie API Web App",
-            skillOne: "HTML",
-            skillTwo: "Sass",
-            skillThree: "Vue",
-            live: "https://vue-movie-list.netlify.app",
-            code: "https://github.com/travisfrazier/nuxt-movie-list",
-            id: 7,
-          },
-          {
-            img: "typemaster.png",
-            name: "Typemaster Launch Landing Page",
-            skillOne: "HTML",
-            skillTwo: "CSS Grid",
-            skillThree: "Sass",
-            live: "https://travisfrazier.github.io/typemaster-lp",
-            code: "https://github.com/travisfrazier/typemaster-lp",
-            id: 8,
-          }
         ],
       };
     },
